@@ -129,8 +129,6 @@ def predict_sentiment(text, model=best_model):
 examples = [
     "Thanks for checking.  Please go ahead and close the ticket.",
     "Sounds good, thank you!",
-    "This information answers my question. Thank you so much!",
-    
     "My flight was delayed for 4 hours and no one helped.",
     "Amazing service by JetBlue today!",
     "It was okay. Nothing special.",
